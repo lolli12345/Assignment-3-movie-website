@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assignment-3-movie-website/static/css/main.b9581fe1.css",
+    "main.js": "/Assignment-3-movie-website/static/js/main.5c4094fb.js",
+    "static/js/787.3c389bc0.chunk.js": "/Assignment-3-movie-website/static/js/787.3c389bc0.chunk.js",
+    "index.html": "/Assignment-3-movie-website/index.html",
+    "main.b9581fe1.css.map": "/Assignment-3-movie-website/static/css/main.b9581fe1.css.map",
+    "main.5c4094fb.js.map": "/Assignment-3-movie-website/static/js/main.5c4094fb.js.map",
+    "787.3c389bc0.chunk.js.map": "/Assignment-3-movie-website/static/js/787.3c389bc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9581fe1.css",
+    "static/js/main.5c4094fb.js"
+  ]
+}
